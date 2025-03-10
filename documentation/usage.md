@@ -1,3 +1,3 @@
 # How to use the program
 
-TODO - document how to use this program and what it does!
+This program greets the user in a friendly manner! To use it, just run `./hello <name>`.
