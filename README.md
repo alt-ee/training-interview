@@ -4,7 +4,7 @@ This is a basic example of an open source software project, containing a tiny pr
 
 ## Usage
 
-TODO - document how to use this program
+To use the program, run the command `./hello name`.
 
 ## Contributing
 
